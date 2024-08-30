@@ -13,6 +13,6 @@ In this repository, we have used the most used features that are available in li
 </ul>
 
 <b>Summary<b>
-Packages Used : Tensor flow, Librosa, Numpy, Pandas, SoundFile, Wave, Sound file, SciKit-learn, Matplotlib, Pyaudio
-Dataset Used: Ravdess DataSet
-Observed Emotions : neutral", "calm", "happy" "sad", "angry", "fear", "disgust", "ps" (pleasant surprise) and "boredom".
+<p> Packages Used : Tensor flow, Librosa, Numpy, Pandas, SoundFile, Wave, Sound file, SciKit-learn, Matplotlib, Pyaudio </p>
+<p>Dataset Used: Ravdess DataSet</p>
+<p>Observed Emotions : neutral", "calm", "happy" "sad", "angry", "fear", "disgust", "ps" (pleasant surprise) and "boredom".</p>
