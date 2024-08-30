@@ -12,7 +12,7 @@ In this repository, we have used the most used features that are available in li
 <li>MEL Spectrogram Frequency (mel)</li>
 </ul>
 
-<b>Summary<b>
-<p> Packages Used : Tensor flow, Librosa, Numpy, Pandas, SoundFile, Wave, Sound file, SciKit-learn, Matplotlib, Pyaudio </p>
-<p>Dataset Used: Ravdess DataSet</p>
+<h2>Summary</h2>
+<p>Packages Used : Tensor flow, Librosa, Numpy, Pandas, SoundFile, Wave, Sound file, SciKit-learn, Matplotlib, Pyaudio </p>
+<p>Dataset Used : Ravdess DataSet</p>
 <p>Observed Emotions : neutral", "calm", "happy" "sad", "angry", "fear", "disgust", "ps" (pleasant surprise) and "boredom".</p>
